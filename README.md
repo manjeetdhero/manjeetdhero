@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manjeet
-- 👀 I’m interested in building new tooks & wares.
+- 👀 I’m interested in building new tools, platforms & wares.
 - 🌱 I’m currently learning big data techs.
 - 💞️ I’m looking to collaborate on development in fintech.
 - 📫 How to reach me manjeet.kumar@deliveryhero.com
